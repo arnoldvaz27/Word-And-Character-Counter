@@ -6,7 +6,7 @@ android {
     compileSdkVersion 30
 
     defaultConfig {
-        applicationId "com.example.differentstylebuttons"
+        applicationId "com.example.wordsandcharacterscount"
         minSdkVersion 21
         targetSdkVersion 30
         versionCode 1
