@@ -1,4 +1,4 @@
-package com.example.wordsandcharacterscount;
+package com.arnoldvaz27.wordsandcharacterscount;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -8,6 +8,7 @@ import android.text.Editable;
 import android.text.TextWatcher;
 import android.widget.EditText;
 import android.widget.TextView;
+
 
 public class MainActivity extends AppCompatActivity {
 

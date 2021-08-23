@@ -1,4 +1,4 @@
-package com.example.wordsandcharacterscount;
+package com.arnoldvaz27.wordsandcharacterscount;
 
 import android.content.Context;
 
